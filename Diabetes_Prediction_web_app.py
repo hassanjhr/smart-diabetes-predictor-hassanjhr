@@ -34,7 +34,7 @@ def main():
             .title {
                 text-align: center;
                 font-size: 2.8rem;
-                color: white;
+                
             }
             .result-success {
                 background-color: #D4EDDA;
